@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.e6c13ad2.css",
-    "main.js": "/react-deploy/static/js/main.9959242d.js",
-    "static/js/787.2d93f5e8.chunk.js": "/react-deploy/static/js/787.2d93f5e8.chunk.js",
-    "index.html": "/react-deploy/index.html",
-    "main.e6c13ad2.css.map": "/react-deploy/static/css/main.e6c13ad2.css.map",
-    "main.9959242d.js.map": "/react-deploy/static/js/main.9959242d.js.map",
-    "787.2d93f5e8.chunk.js.map": "/react-deploy/static/js/787.2d93f5e8.chunk.js.map"
+    "main.css": "/react-bucket-list/static/css/main.e6c13ad2.css",
+    "main.js": "/react-bucket-list/static/js/main.0bd1bf11.js",
+    "static/js/787.2d93f5e8.chunk.js": "/react-bucket-list/static/js/787.2d93f5e8.chunk.js",
+    "index.html": "/react-bucket-list/index.html",
+    "main.e6c13ad2.css.map": "/react-bucket-list/static/css/main.e6c13ad2.css.map",
+    "main.0bd1bf11.js.map": "/react-bucket-list/static/js/main.0bd1bf11.js.map",
+    "787.2d93f5e8.chunk.js.map": "/react-bucket-list/static/js/787.2d93f5e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9959242d.js"
+    "static/js/main.0bd1bf11.js"
   ]
 }
